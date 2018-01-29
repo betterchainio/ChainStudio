@@ -1,5 +1,5 @@
 # ChainStudio
 
-smart contract dapp online editor
+smart contract distributed applications online editor
 
 ![ChainStudio](ChainStudio.png)
