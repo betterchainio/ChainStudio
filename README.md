@@ -1,2 +1,3 @@
 # ChainStudio
-BetterChain Smart contract online editor
+
+smart contract dapp online editor
